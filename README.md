@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akarki2005
-- 👀 I’m interested in Game/Software Development, Machine Learning and Data Science
-- 🌱 I’m currently learning the Unity game engine for my next personal game project!
+- 📖 I'm currently specializing in Computer Science at the University of Toronto, with minors in Mathematics and Statistics
+- 👀 I’m interested in the fields of Game and Software Development, as well as Machine Learning and Data Science
 - 📫 How to reach me: akarki2005@gmail.com
 
 <!---
