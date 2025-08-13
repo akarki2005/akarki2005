@@ -21,6 +21,7 @@ hobbies:
     "Gaming",
     "Soccer",
     "Cooking",
+    "Reading",
   ]
 
 links:
