@@ -9,10 +9,11 @@ education: Computer Science @ University of Toronto
 
 fields_of_interest:
   [
-    "Web Development",
-    "Data Science",
+    "Software Development",
+    "Operating Systems",
+    "Computer Architecture",
     "Machine Learning",
-    "Game Development",
+    "DevOps",
   ]
 
 hobbies:
@@ -20,6 +21,7 @@ hobbies:
     "Gym",
     "Gaming",
     "Soccer",
+    "Skiing",
     "Cooking",
     "Reading",
   ]
