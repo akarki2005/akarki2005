@@ -1,4 +1,4 @@
-# Hey! I'm Aayush. 👋
+# Hi there, I'm Aayush. 👋
 
 [My Website](https://aayushkarki.com)
 
