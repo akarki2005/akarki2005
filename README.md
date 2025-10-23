@@ -1,6 +1,6 @@
 # Hey! I'm Aayush. 👋
 
-[My Website](aayushkarki.com)
+[My Website](https://aayushkarki.com)
 
 ## A Little Bit About Me...
 
