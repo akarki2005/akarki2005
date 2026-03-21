@@ -3,9 +3,9 @@
 I study Computer Science at the University of Toronto and spend most of my time building backend systems or reading about distributed systems and cloud computing.
 
 #### Recently
-- SWE Intern @ CIBC (Java / Spring / Azure)
-- Open Source SWE @ UofT (CI improvements, backend infra work)
-- AI Research SWE @ The Matter Lab (multi-agent workflows)
+- Backend SWE @ CIBC (Client Servicing Technology 🏦)
+- Open Source SWE @ UofT (Course Prerequisite Visualization 🎓)
+- AI SWE @ The Matter Lab (AI Agents for Quantum Chemistry ⚛️)
 
 #### Links
 - 🌐 [Website](https://aayushkarki.com)
