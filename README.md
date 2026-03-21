@@ -9,7 +9,7 @@ I study Computer Science at the University of Toronto and spend most of my time 
 
 #### Links
 - 🌐 [Website](https://aayushkarki.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/aayushkarki05)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aayushkarki05/)
 
 ## Selected Work
 
