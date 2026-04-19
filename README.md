@@ -13,7 +13,7 @@ I study Computer Science at the University of Toronto and spend most of my time 
 
 ## Selected Work
 
-### Open Source SWE @ UofT:
+### Open Source SWE:
 
 #### MarkUs (Student Grading Platform)
 
