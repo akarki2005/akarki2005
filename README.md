@@ -19,6 +19,8 @@ I study Computer Science at the University of Toronto and spend most of my time 
 
   - Documentation
     - [Docker Ruby Interpreter](https://github.com/MarkUsProject/Wiki/pull/259)
+  - Backend
+    - [Groups Controller Tests](https://github.com/MarkUsProject/MarkUs/pull/7955)
 
 #### Courseography (Course Prerequisite Visualization)
   - Infra/DevOps 
