@@ -17,10 +17,12 @@ I study Computer Science at the University of Toronto and spend most of my time 
 
 #### MarkUs (Student Grading Platform)
 
-  - Documentation
-    - [Docker Ruby Interpreter](https://github.com/MarkUsProject/Wiki/pull/259)
   - Backend
     - [Groups Controller Tests](https://github.com/MarkUsProject/MarkUs/pull/7955)
+  - Infra/DevOps
+    - [Test Suite Parallelization](https://github.com/MarkUsProject/MarkUs/pull/7972)
+  - Documentation
+    - [Docker Ruby Interpreter](https://github.com/MarkUsProject/Wiki/pull/259)
 
 #### Courseography (Course Prerequisite Visualization)
   - Infra/DevOps 
