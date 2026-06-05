@@ -15,7 +15,7 @@ I study Computer Science at the University of Toronto and spend most of my time 
 
 ### Open Source SWE:
 
-#### MarkUs (Student Grading Platform)
+#### MarkUs (Assignment Grading & Submissions)
 
   - Backend
     - [Groups Controller Tests](https://github.com/MarkUsProject/MarkUs/pull/7955)
