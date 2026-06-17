@@ -2,6 +2,10 @@
 
 I study Computer Science at the University of Toronto and spend most of my time building backend systems or reading about distributed systems and cloud computing.
 
+#### Soon
+
+- SWE @ Shopify (Fall 2026 🍂)
+
 #### Recently
 - Backend SWE @ CIBC (Client Servicing Technology 🏦)
 - Open Source SWE @ UofT (Course Prerequisite Visualization 🎓)
