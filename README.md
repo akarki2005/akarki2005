@@ -6,10 +6,15 @@ I study Computer Science at the University of Toronto and spend most of my time 
 
 - SWE @ Shopify (Fall 2026 🍂)
 
+#### Currently
+
+- Open Source SWE @ UofT (Assignment submission & grading 📝)
+
 #### Recently
-- Backend SWE @ CIBC (Client Servicing Technology 🏦)
-- Open Source SWE @ UofT (Course Prerequisite Visualization 🎓)
-- AI SWE @ The Matter Lab (AI Agents for Quantum Chemistry ⚛️)
+
+- Backend SWE @ CIBC (Client servicing technology 🏦)
+- Open Source SWE @ UofT (Course prerequisite visualization 🎓)
+- AI Research @ The Matter Lab (AI agents for quantum chemistry ⚛️)
 
 #### Links
 - 🌐 [Website](https://aayushkarki.com)
@@ -22,6 +27,7 @@ I study Computer Science at the University of Toronto and spend most of my time 
 #### MarkUs (Assignment Grading & Submissions)
 
   - Fullstack
+    - [Automatically collect scanned submissions](https://github.com/MarkUsProject/Markus/pull/8069)
     - [Enhancements to Exam Scanning](https://github.com/MarkUsProject/Markus/pull/8051)
   - Frontend
     - [Annotation Link Bugfix](https://github.com/MarkUsProject/Markus/pull/8017)
