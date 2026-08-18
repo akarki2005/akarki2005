@@ -2,18 +2,14 @@
 
 I study Computer Science at the University of Toronto and spend most of my time building backend systems or reading about distributed systems and cloud computing.
 
-#### Soon
-
-- SWE @ Shopify (Fall 2026 🍂)
-
 #### Currently
 
-- Open Source SWE @ UofT (Assignment submission & grading 📝)
+- SWE @ Shopify (Payments Platform 💳)
 
 #### Recently
 
 - Backend SWE @ CIBC (Client servicing technology 🏦)
-- Open Source SWE @ UofT (Course prerequisite visualization 🎓)
+- Open Source SWE @ UofT (Course prerequisite visualization 🎓 & Assignment submission & grading 📝)
 - AI Research @ The Matter Lab (AI agents for quantum chemistry ⚛️)
 
 #### Links
